@@ -1,3 +1,6 @@
+### Demo
+![Alt Text](demo.png)
+
 -------------------------How the Program Runs-------------------------------------------
 1. Runs Application.java to start the program. 
 2. The application will ask for GUI user interface. Y for Yes. N for No.
