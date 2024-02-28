@@ -1,5 +1,5 @@
 ### Demo
-![Alt Text](demo.png)
+![Alt Text](/demo.png)
 
 -------------------------How the Program Runs-------------------------------------------
 1. Runs Application.java to start the program. 
